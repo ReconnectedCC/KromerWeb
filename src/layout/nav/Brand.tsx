@@ -28,7 +28,8 @@ const GIT_RE = /^\d+-g[a-f0-9]{5,32}(?:-dirty)?$/;
 export function Brand(): JSX.Element {
   const { t } = useTranslation();
 
-  const gitVersion: string = __GIT_VERSION__;
+  //const gitVersion: string = __GIT_VERSION__;
+  const gitVersion: string = "0.0.1"
 
   const major = semverMajor(gitVersion);
   const minor = semverMinor(gitVersion);
@@ -53,7 +54,6 @@ export function Brand(): JSX.Element {
     <ConditionalLink to="/" matchTo matchExact>
       <img src="/logo.svg" className="logo" />
       {t("app.name")}
-      <span className="site-header-brand-version">v{major}.{minor}.{patch}</span>
       {tag}
     </ConditionalLink>
   </div>;
