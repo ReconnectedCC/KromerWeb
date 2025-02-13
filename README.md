@@ -6,16 +6,16 @@
   </tr>
 </table>
 
-Rewrite of the Krist Web Wallet, in React. This is a fully clientside Krist 
-wallet that only needs to communicate to the Krist node itself. It securely 
+Fork of the KristWeb Wallet, in React. This is a fully clientside Kromer 
+wallet that only needs to communicate to the Kromer node itself. It securely 
 saves wallets encrypted in your browser's Local Storage, so you don't have to 
 type in wallet passwords ever again!
 
 ### Building (for development)
 
 ```sh
-git clone https://github.com/tmpim/KristWeb2
-cd KristWeb2
+git clone https://github.com/reconnectedcc/KromerWeb
+cd KromerWeb
 
 yarn install
 npm start # Run the development server
@@ -24,8 +24,8 @@ npm start # Run the development server
 ### Building (for production)
 
 ```sh
-git clone https://github.com/tmpim/KristWeb2
-cd KristWeb2
+git clone https://github.com/reconnectedcc/KromerWeb
+cd KromerWeb
 yarn install
 yarn run full-build # Build the production files
 ```
