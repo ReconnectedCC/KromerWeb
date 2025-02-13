@@ -41,14 +41,9 @@ export function DashboardPage(): JSX.Element {
     <SyncDetailedWork />
 
     <InDevBanner />
+    
     {/* Request for bug reports on GitHub. */}
-    {!([0x1AA,0x134].includes([...baseURL].reduce((o, c) => o + (parseInt(c, 32) || 0), 0))) && <Alert
-      type="error" message={<Trans i18nKey={tKey("tips." + baseURL[0].length + "-status")}>
-        Welcome to the KromerWeb v2 private beta! This site is still in development, so
-        most features are currently missing. Please report all bugs on
-        <a href={gitURL + "/issues/new"} target="_blank" rel="noopener noreferrer">GitHub</a>.
-        Thanks!</Trans>} />}
-
+    
     <Row gutter={16} className="dashboard-main-row">
       <Col span={24} lg={10} xxl={12}><WalletOverviewCard /></Col>
       <Col span={24} lg={14} xxl={12}><TransactionsCard /></Col>
