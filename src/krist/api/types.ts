@@ -87,8 +87,8 @@ export interface KristCurrency {
   currency_symbol: string;
 }
 export const DEFAULT_CURRENCY: KristCurrency = {
-  address_prefix: "k", name_suffix: "kst",
-  currency_name: "Krist", currency_symbol: "KST"
+  address_prefix: "k", name_suffix: "kro",
+  currency_name: "Kromer", currency_symbol: "KRO"
 };
 
 export interface KristMOTDBase {
