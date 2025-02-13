@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "KristWeb"
+    "name": "KromerWeb"
   },
 
   "nav": {
@@ -69,7 +69,7 @@
     "whatsNew": "Nowości",
 
     "updateTitle": "Dostępna aktualizacja!",
-    "updateDescription": "Dostępna jest nowa wersja KristWeb. Proszę odświeżyć stronę.",
+    "updateDescription": "Dostępna jest nowa wersja KromerWeb. Proszę odświeżyć stronę.",
     "updateReload": "Odśwież"
   },
 
@@ -89,7 +89,7 @@
   "error": "Błąd",
   "errorBoundary": {
     "title": "Błąd krytyczny",
-    "description": "Wystąpił błąd krytyczny w KristWeb, więc ta strona została zamknięta. Szczegółowe informacje można znaleźć w konsoli.",
+    "description": "Wystąpił błąd krytyczny w KromerWeb, więc ta strona została zamknięta. Szczegółowe informacje można znaleźć w konsoli.",
     "sentryNote": "Ten błąd został zgłoszony automatycznie."
   },
   "errorReported": "Błąd został zgłoszony automatycznie. Szczegółowe informacje można znaleźć w konsoli.",
@@ -306,7 +306,7 @@
     "walletFormatJwalelset": "jwalelset",
     "walletFormatApi": "Raw/API (advanced users)",
 
-    "walletSave": "Zapisz ten portfel w KristWeb",
+    "walletSave": "Zapisz ten portfel w KromerWeb",
 
     "messageSuccessAdd": "Pomyślnie dodano portfel!",
     "messageSuccessCreate": "Pomyślnie utworzono portfel!",
@@ -355,8 +355,8 @@
   "dashboard": {
     "siteTitle": "Pulpit nawigacyjny",
 
-    "inDevBanner": "Witamy w prywatnej wersji beta KristWeb v2! Ta strona jest wciąż w fazie rozwoju, więc obecnie brakuje większości funkcji. Prosimy o zgłaszanie wszystkich błędów na <1> GitHub </1>. Dzięki!",
-    "inDevBanner2": "Witamy w publicznej wersji beta KristWeb v2! Ta strona jest wciąż dość nowa, więc prosimy o zgłaszanie wszystkich błędów na <1> GitHub </1>. Dzięki!",
+    "inDevBanner": "Witamy w prywatnej wersji beta KromerWeb v2! Ta strona jest wciąż w fazie rozwoju, więc obecnie brakuje większości funkcji. Prosimy o zgłaszanie wszystkich błędów na <1> GitHub </1>. Dzięki!",
+    "inDevBanner2": "Witamy w publicznej wersji beta KromerWeb v2! Ta strona jest wciąż dość nowa, więc prosimy o zgłaszanie wszystkich błędów na <1> GitHub </1>. Dzięki!",
 
     "walletOverviewCardTitle": "Portfele",
     "walletOverviewTotalBalance": "Saldo całkowite",
@@ -402,11 +402,11 @@
     "tipsPrevious": "Poprzedni",
     "tipsNext": "Następny",
     "tips": {
-      "0": "Sprawdź, co nowego w Krist i KristWeb na stronie [Co nowego](/whatsnew)!",
+      "0": "Sprawdź, co nowego w Krist i KromerWeb na stronie [Co nowego](/whatsnew)!",
       "1": "Możesz szybko poruszać się po tabelach za pomocą klawiszy strzałek na pulpicie.",
       "2": "Możesz kliknąć nagłówki tabeli, aby je posortować.",
       "3": "Możesz filtrować według kategorii na stronie [Moje portfele](/wallets), klikając ikonę filtru w nagłówku tabeli.",
-      "4": "Na [stronie ustawień](/settings) dostępnych jest wiele zaawansowanych opcji umożliwiających personalizację korzystania z KristWeb.",
+      "4": "Na [stronie ustawień](/settings) dostępnych jest wiele zaawansowanych opcji umożliwiających personalizację korzystania z KromerWeb.",
       "5": "Wygeneruj wstępnie wypełnione linki do transakcji za pomocą nowej strony [Żądania](/request).",
       "6": "Pamiętaj, aby wykonać kopię zapasową [swoich portfeli](/wallets)!",
       "7": "Szybko przeszukaj sieć Krist za pomocą skrótu klawiaturowego Ctrl + K (Cmd + K w systemie macOS).",
@@ -428,10 +428,10 @@
     "hostedBy": "Hostowany przez <1>{{host}}</1>",
     "supportersTitle": "Darczyńcy",
     "supportersDescription": "Ten projekt był możliwy dzięki następującym niesamowitym darczyńcom:",
-    "supportButton": "Wesprzyj KristWeb",
+    "supportButton": "Wesprzyj KromerWeb",
     "translatorsTitle": "Tłumacze",
     "translatorsDescription": "Ten projekt został przetłumaczony przez następujących niesamowitych współpracowników:",
-    "translateButton": "Przetłumacz KristWeb",
+    "translateButton": "Przetłumacz KromerWeb",
     "tmpim": "Stworzony przez tmpim",
 
     "versionInfo": {
@@ -446,9 +446,9 @@
     "privacy": {
       "kristServer": "Server Krist",
       "kristServerDesc": "Jedyne informacje umożliwiające identyfikację, które przechowuje <1>Krist Server</1>, to Twój adres IP, User-Agent i Origin w dziennikach serwera internetowego. Te informacje są automatycznie usuwane po 30 dniach.",
-      "kristweb": "KristWeb",
-      "kristwebDesc1": "KristWeb używa samoobsługowego serwera <1>Sentry</1> do automatycznego raportowania błędów. Ten system przechowuje Twój adres IP, User-Agent, Origin, okruszki chleba i szczegóły wszelkich błędów, które są automatycznie zgłaszane. Te informacje są automatycznie usuwane po 30 dniach.",
-      "kristwebDesc2": "Jeśli masz rozszerzenie blokujące reklamy lub śledzące, takie jak <1>uBlock Origin</1> <strong>(zalecane)</strong>, nasz system Sentry jest już blokowany przez wbudowane listy, więc nie musisz martwić się o swoją prywatność. Możesz również zrezygnować z raportowania błędów na <4>stronie ustawień</4>. To powiedziawszy, jeśli chcesz nam pomóc, dostarczając bardziej szczegółowe raporty o błędach, rozważ zrobienie wyjątku dla KristWeb w swoim oprogramowaniu do blokowania elementów śledzących. Ta witryna nie wyświetla reklam.",
+      "kristweb": "KromerWeb",
+      "kristwebDesc1": "KromerWeb używa samoobsługowego serwera <1>Sentry</1> do automatycznego raportowania błędów. Ten system przechowuje Twój adres IP, User-Agent, Origin, okruszki chleba i szczegóły wszelkich błędów, które są automatycznie zgłaszane. Te informacje są automatycznie usuwane po 30 dniach.",
+      "kristwebDesc2": "Jeśli masz rozszerzenie blokujące reklamy lub śledzące, takie jak <1>uBlock Origin</1> <strong>(zalecane)</strong>, nasz system Sentry jest już blokowany przez wbudowane listy, więc nie musisz martwić się o swoją prywatność. Możesz również zrezygnować z raportowania błędów na <4>stronie ustawień</4>. To powiedziawszy, jeśli chcesz nam pomóc, dostarczając bardziej szczegółowe raporty o błędach, rozważ zrobienie wyjątku dla KromerWeb w swoim oprogramowaniu do blokowania elementów śledzących. Ta witryna nie wyświetla reklam.",
       "kristwebDesc3": "Jeśli masz jakieś pytania lub wątpliwości, skontaktuj się z programistami."
     }
   },
@@ -508,7 +508,7 @@
     "subTitleTranslations": "Tłumaczenia",
 
     "translations": {
-      "errorMissingLanguages": "Wydaje się, że brakuje pliku languages.json. Czy KristWeb został poprawnie skompilowany?",
+      "errorMissingLanguages": "Wydaje się, że brakuje pliku languages.json. Czy KromerWeb został poprawnie skompilowany?",
       "errorNoKeys": "Brak kluczy tłumaczenia",
 
       "columnLanguageCode": "Kod",
@@ -827,8 +827,8 @@
 
   "noWalletsResult": {
     "title": "Nie ma jeszcze portfeli",
-    "subTitle": "Obecnie nie masz żadnych portfeli zapisanych w KristWeb, więc nie ma tu jeszcze nic do oglądania. Chcesz dodać portfel?",
-    "subTitleSendTransaction": "Obecnie nie masz żadnych portfeli zapisanych w KristWeb, więc nie możesz jeszcze dokonać transakcji. Chcesz dodać portfel?",
+    "subTitle": "Obecnie nie masz żadnych portfeli zapisanych w KromerWeb, więc nie ma tu jeszcze nic do oglądania. Chcesz dodać portfel?",
+    "subTitleSendTransaction": "Obecnie nie masz żadnych portfeli zapisanych w KromerWeb, więc nie możesz jeszcze dokonać transakcji. Chcesz dodać portfel?",
     "button": "Dodaj portfele",
     "buttonNetworkTransactions": "Wszystkie transakcje",
     "buttonNetworkNames": "Wszystkie nazwy"
@@ -840,7 +840,7 @@
   },
 
   "import": {
-    "description": "Wklej kod zapasowy (lub zaimportuj z pliku poniżej) i wprowadź odpowiednie hasło główne. Obsługiwane są również kopie zapasowe z KristWeb v1.",
+    "description": "Wklej kod zapasowy (lub zaimportuj z pliku poniżej) i wprowadź odpowiednie hasło główne. Obsługiwane są również kopie zapasowe z KromerWeb v1.",
 
     "masterPasswordPlaceholder": "Hasło główne",
     "masterPasswordRequired": "Wymagane jest hasło główne.",
@@ -888,11 +888,11 @@
       "successSkippedNoOverwrite": "Portfel o tym samym adresie ({{address}}) już istnieje, a Ty zdecydowałeś nie nadpisywać etykiety, więc został pominięty.",
       "successImportSkipped": "Portfel z tym samym adresem ({{address}}) został już zaimportowany, więc został pominięty.",
 
-      "warningSyncNode": "Ten portfel miał niestandardowy węzeł synchronizacji, który nie jest obsługiwany w KristWeb v2. Węzeł synchronizacji został pominięty.",
-      "warningIcon": "Ten portfel miał niestandardową ikonę, która nie jest obsługiwana w KristWeb v2. Ikona została pominięta.",
+      "warningSyncNode": "Ten portfel miał niestandardowy węzeł synchronizacji, który nie jest obsługiwany w KromerWeb v2. Węzeł synchronizacji został pominięty.",
+      "warningIcon": "Ten portfel miał niestandardową ikonę, która nie jest obsługiwana w KromerWeb v2. Ikona została pominięta.",
       "warningLabelInvalid": "Etykieta tego portfela jest nieprawidłowa. Etykieta została pominięta.",
       "warningCategoryInvalid": "Kategoria tego portfela jest nieprawidłowa. Kategoria została pominięta.",
-      "warningAdvancedFormat": "Ten portfel wykorzystuje zaawansowany format ({{format}}), który ma ograniczone wsparcie w KristWeb v2.",
+      "warningAdvancedFormat": "Ten portfel wykorzystuje zaawansowany format ({{format}}), który ma ograniczone wsparcie w KromerWeb v2.",
 
       "errorInvalidTypeString": "Ten portfel nie był ciągiem znaków!",
       "errorInvalidTypeObject": "Ten portfel nie był obiektem!",
@@ -918,8 +918,8 @@
       "successSkippedNoOverwrite": "Kontakt o tym samym adresie ({{address}}) już istnieje, a użytkownik zdecydował się nie nadpisywać etykiety, więc został pominięty.",
       "successImportSkipped": "Kontakt o tym samym adresie ({{address}}) został już zaimportowany, więc został pominięty.",
 
-      "warningSyncNode": "Ten kontakt miał niestandardowy węzeł synchronizacji, który nie jest obsługiwany w KristWeb v2. Węzeł synchronizacji został pominięty.",
-      "warningIcon": "Ten kontakt miał niestandardową ikonę, która nie jest obsługiwana w KristWeb v2. Ikona została pominięta.",
+      "warningSyncNode": "Ten kontakt miał niestandardowy węzeł synchronizacji, który nie jest obsługiwany w KromerWeb v2. Węzeł synchronizacji został pominięty.",
+      "warningIcon": "Ten kontakt miał niestandardową ikonę, która nie jest obsługiwana w KromerWeb v2. Ikona została pominięta.",
       "warningLabelInvalid": "Etykieta tego kontaktu była nieprawidłowa. Etykieta została pominięta.",
 
       "errorInvalidTypeString": "Ten kontakt nie był ciągiem znaków!",
@@ -974,8 +974,8 @@
     "buttonCopy": "Skopiuj do schowka"
   },
 
-  "walletLimitMessage": "Masz więcej portfeli niż obsługuje KristWeb. Było to spowodowane przez błąd lub celowo pominąłeś ten limit. Spodziewaj się problemów z synchronizacją.",
-  "contactLimitMessage": "Masz więcej zapisanych kontaktów niż obsługuje KristWeb. Było to spowodowane przez błąd lub celowo pominąłeś ten limit. Spodziewaj się problemów z synchronizacją.",
+  "walletLimitMessage": "Masz więcej portfeli niż obsługuje KromerWeb. Było to spowodowane przez błąd lub celowo pominąłeś ten limit. Spodziewaj się problemów z synchronizacją.",
+  "contactLimitMessage": "Masz więcej zapisanych kontaktów niż obsługuje KromerWeb. Było to spowodowane przez błąd lub celowo pominąłeś ten limit. Spodziewaj się problemów z synchronizacją.",
 
   "optionalFieldUnset": "(nieustawione)",
 
@@ -1084,7 +1084,7 @@
     "siteTitle": "Nowości",
 
     "titleKrist": "Krist",
-    "titleKristWeb": "KristWeb",
+    "titleKristWeb": "KromerWeb",
 
     "tooltipGitHub": "Wyświetl w GitHub",
 
@@ -1101,7 +1101,7 @@
 
     "buttonAll": "Wszystkie",
 
-    "warningTotalLimit": "Wygląda na to, że masz ponad 1000 nazw, co nie jest jeszcze obsługiwane w KristWeb v2. Możesz zgłosić problem na GitHub.",
+    "warningTotalLimit": "Wygląda na to, że masz ponad 1000 nazw, co nie jest jeszcze obsługiwane w KromerWeb v2. Możesz zgłosić problem na GitHub.",
     "errorLookup": "Wystąpił błąd podczas pobierania nazw. Zobacz konsolę, aby uzyskać szczegółowe informacje."
   },
 
@@ -1179,7 +1179,7 @@
 
   "noNamesResult": {
     "title": "Nie ma jeszcze nazw",
-    "subTitle": "Obecnie nie masz nazw w żadnym ze swoich portfeli zapisanych w KristWeb, więc nie ma tu jeszcze nic do oglądania. Chcesz kupić nazwę?",
+    "subTitle": "Obecnie nie masz nazw w żadnym ze swoich portfeli zapisanych w KromerWeb, więc nie ma tu jeszcze nic do oglądania. Chcesz kupić nazwę?",
     "button": "Zakup nazwę"
   },
 
@@ -1222,8 +1222,8 @@
   },
 
   "legacyMigration": {
-    "modalTitle": "Migracja KristWeb v1",
-    "description": "Witamy w KristWeb v2! Wygląda na to, że korzystałeś już wcześniej z KristWeb v1 w tej domenie. <br /><br /><strong>Wprowadź swoje hasło główne, aby przeprowadzić migrację swoich portfeli do nowego formatu.</strong> Wystarczy to zrobić tylko raz .",
+    "modalTitle": "Migracja KromerWeb v1",
+    "description": "Witamy w KromerWeb v2! Wygląda na to, że korzystałeś już wcześniej z KromerWeb v1 w tej domenie. <br /><br /><strong>Wprowadź swoje hasło główne, aby przeprowadzić migrację swoich portfeli do nowego formatu.</strong> Wystarczy to zrobić tylko raz .",
 
     "walletCount_0": "Wykryto <1>{{count, number}}</1> portfel",
     "walletCount_1": "Wykryto <1>{{count, number}}</1> portfele",
@@ -1245,7 +1245,7 @@
 
     "forgotPassword": {
       "modalTitle": "Pomiń migrację z wersji 1",
-      "modalContent": "Jeśli zapomniałeś hasła głównego do KristWeb v1, nie będziesz mógł migrować swoich portfeli. Nigdy więcej nie zostaniesz zapytany. Czy na pewno chcesz pominąć migrację?",
+      "modalContent": "Jeśli zapomniałeś hasła głównego do KromerWeb v1, nie będziesz mógł migrować swoich portfeli. Nigdy więcej nie zostaniesz zapytany. Czy na pewno chcesz pominąć migrację?",
       "buttonSkip": "Pomiń"
     }
   },

@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "KristWeb"
+    "name": "KromerWeb"
   },
 
   "nav": {
@@ -66,7 +66,7 @@
     "whatsNew": "Cosa c'è di nuovo",
 
     "updateTitle": "Aggiornamento disponibile!",
-    "updateDescription": "Una nuova versione di KristWeb è disponibile. Per favore ricarica.",
+    "updateDescription": "Una nuova versione di KromerWeb è disponibile. Per favore ricarica.",
     "updateReload": "Ricarica"
   },
 
@@ -86,7 +86,7 @@
   "error": "Errore",
   "errorBoundary": {
     "title": "Errore critico",
-    "description": "È stato riscontrato un errore critico in KristWeb e quindi la pagina è stata terminata. Vedi la console per i dettagli.",
+    "description": "È stato riscontrato un errore critico in KromerWeb e quindi la pagina è stata terminata. Vedi la console per i dettagli.",
     "sentryNote": "Questo errore è stato segnalato automaticamente"
   },
   "errorReported": "Un errore è stato automaticamente segnalato. Vedi la console per dettagli.",
@@ -300,7 +300,7 @@
     "walletFormatJwalelset": "jwalelset",
     "walletFormatApi": "Raw/API (utenti avanzati)",
 
-    "walletSave": "Salva portafoglio in KristWeb",
+    "walletSave": "Salva portafoglio in KromerWeb",
 
     "messageSuccessAdd": "Portafoglio aggiunto con successo!",
     "messageSuccessCreate": "Portafoglio creato con successo!",
@@ -349,8 +349,8 @@
   "dashboard": {
     "siteTitle": "Dashboard",
 
-    "inDevBanner": "Welcome to the KristWeb v2 private beta! This site is still in development, so most features are currently missing. Please report all bugs on <1>GitHub</1>. Thanks!",
-    "inDevBanner2": "Welcome to the KristWeb v2 public beta! This site is relatively new, so please report any bugs on <1>GitHub</1>. Thanks!",
+    "inDevBanner": "Welcome to the KromerWeb v2 private beta! This site is still in development, so most features are currently missing. Please report all bugs on <1>GitHub</1>. Thanks!",
+    "inDevBanner2": "Welcome to the KromerWeb v2 public beta! This site is relatively new, so please report any bugs on <1>GitHub</1>. Thanks!",
 
     "walletOverviewCardTitle": "Portafogli",
     "walletOverviewTotalBalance": "Saldo totale",
@@ -392,11 +392,11 @@
     "tipsPrevious": "Prec.",
     "tipsNext": "Pros.",
     "tips": {
-      "0": "Check out what's new in Krist and KristWeb on the [What's New page](/whatsnew)!",
+      "0": "Check out what's new in Krist and KromerWeb on the [What's New page](/whatsnew)!",
       "1": "You can quickly navigate through tables with the arrow keys on desktop.",
       "2": "You can click on table headers to sort them.",
       "3": "You can filter by categories in the [My Wallets](/wallets) page by clicking the filter icon in the table header.",
-      "4": "The [settings page](/settings) has many advanced options to personalise your KristWeb experience.",
+      "4": "The [settings page](/settings) has many advanced options to personalise your KromerWeb experience.",
       "5": "Generate pre-filled transaction links with the new [Request page](/request).",
       "6": "Be sure to backup [your wallets](/wallets)!",
       "7": "Quickly search the Krist network with the keyboard shortcut Ctrl+K (Cmd+K on macOS).",
@@ -418,10 +418,10 @@
     "hostedBy": "Ospitato da <1>{{host}}</1>",
     "supportersTitle": "Sostenitori",
     "supportersDescription": "Questo progetto è stato reso possibile grazie a questi fantastici sostenitori:",
-    "supportButton": "Supporta KristWeb",
+    "supportButton": "Supporta KromerWeb",
     "translatorsTitle": "Traduttori",
     "translatorsDescription": "Questo progetto è stato tradotto da questo fantastici contributori:",
-    "translateButton": "Traduci KristWeb",
+    "translateButton": "Traduci KromerWeb",
     "tmpim": "Creato da tmpim",
 
     "versionInfo": {
@@ -436,9 +436,9 @@
     "privacy": {
       "kristServer": "Server Krist",
       "kristServerDesc": "Le uniche informazioni private che il <1>Server Krist</1> salva sono il tuo indirizzo IP, User-Agent del Browser e Origin, come parte dei log del webserver. Queste informazioni sono automaticamente eliminate dopo 30 giorni.",
-      "kristweb": "KristWeb",
-      "kristwebDesc1": "KristWeb utilizza un server di <1>Sentry</1> improprio per la segnalazione automatica di errori. Questo sistema salva il tuo indirizzo IP, User-Agent del browser, Origin, breadcrumbs, ed i dettagli di qualsiasi errore che viene automaticamente segnalato. Queste informazioni sono automaticamente eliminate dopo 30 giorni.",
-      "kristwebDesc2": "If you have an ad-blocking or tracker-blocking extension such as <1>uBlock Origin</1> <strong>(recommended)</strong>, our Sentry system is already blocked by the built-in lists, so you do not have to worry about your privacy. You can also opt-out of error reporting in the <4>settings page</4>. That said, if you’d like to help us by providing more detailed error reports, then please consider making an exception for KristWeb in your tracker blocker software. This site does not serve ads.",
+      "kristweb": "KromerWeb",
+      "kristwebDesc1": "KromerWeb utilizza un server di <1>Sentry</1> improprio per la segnalazione automatica di errori. Questo sistema salva il tuo indirizzo IP, User-Agent del browser, Origin, breadcrumbs, ed i dettagli di qualsiasi errore che viene automaticamente segnalato. Queste informazioni sono automaticamente eliminate dopo 30 giorni.",
+      "kristwebDesc2": "If you have an ad-blocking or tracker-blocking extension such as <1>uBlock Origin</1> <strong>(recommended)</strong>, our Sentry system is already blocked by the built-in lists, so you do not have to worry about your privacy. You can also opt-out of error reporting in the <4>settings page</4>. That said, if you’d like to help us by providing more detailed error reports, then please consider making an exception for KromerWeb in your tracker blocker software. This site does not serve ads.",
       "kristwebDesc3": "If you have any questions or concerns, please contact the developers."
     }
   },
@@ -498,7 +498,7 @@
     "subTitleTranslations": "Translations",
 
     "translations": {
-      "errorMissingLanguages": "The languages.json file seems to be missing. Was KristWeb compiled correctly?",
+      "errorMissingLanguages": "The languages.json file seems to be missing. Was KromerWeb compiled correctly?",
       "errorNoKeys": "No translation keys",
 
       "columnLanguageCode": "Code",
@@ -811,8 +811,8 @@
 
   "noWalletsResult": {
     "title": "No wallets yet",
-    "subTitle": "You currently have no wallets saved in KristWeb, so there is nothing to see here yet. Would you like to add a wallet?",
-    "subTitleSendTransaction": "You currently have no wallets saved in KristWeb, so you can't make a transaction yet. Would you like to add a wallet?",
+    "subTitle": "You currently have no wallets saved in KromerWeb, so there is nothing to see here yet. Would you like to add a wallet?",
+    "subTitleSendTransaction": "You currently have no wallets saved in KromerWeb, so you can't make a transaction yet. Would you like to add a wallet?",
     "button": "Add wallets",
     "buttonNetworkTransactions": "Network transactions",
     "buttonNetworkNames": "Network names"
@@ -844,8 +844,8 @@
     "modalButton": "Import",
 
     "detectedFormat": "<0>Detected format:</0> <2 />",
-    "detectedFormatKristWebV1": "KristWeb v1",
-    "detectedFormatKristWebV2": "KristWeb v2",
+    "detectedFormatKristWebV1": "KromerWeb v1",
+    "detectedFormatKristWebV2": "KromerWeb v2",
     "detectedFormatInvalid": "Invalid!",
 
     "progress": "Importing <1>{{count, number}}</1> item...",
@@ -871,11 +871,11 @@
       "successSkippedNoOverwrite": "A wallet with the same address ({{address}}) already exists, and you chose not to overwrite the label, so it was skipped.",
       "successImportSkipped": "A wallet with the same address ({{address}}) was already imported, so it was skipped.",
 
-      "warningSyncNode": "This wallet had a custom sync node, which is not supported in KristWeb v2. The sync node was skipped.",
-      "warningIcon": "This wallet had a custom icon, which is not supported in KristWeb v2. The icon was skipped.",
+      "warningSyncNode": "This wallet had a custom sync node, which is not supported in KromerWeb v2. The sync node was skipped.",
+      "warningIcon": "This wallet had a custom icon, which is not supported in KromerWeb v2. The icon was skipped.",
       "warningLabelInvalid": "The label for this wallet was invalid. The label was skipped.",
       "warningCategoryInvalid": "The category for this wallet was invalid. The category was skipped.",
-      "warningAdvancedFormat": "This wallet uses an advanced format ({{format}}), which has limited support in KristWeb v2.",
+      "warningAdvancedFormat": "This wallet uses an advanced format ({{format}}), which has limited support in KromerWeb v2.",
 
       "errorInvalidTypeString": "This wallet was not a string!",
       "errorInvalidTypeObject": "This wallet was not an object!",
@@ -901,8 +901,8 @@
       "successSkippedNoOverwrite": "A contact with the same address ({{address}}) already exists, and you chose not to overwrite the label, so it was skipped.",
       "successImportSkipped": "A contact with the same address ({{address}}) was already imported, so it was skipped.",
 
-      "warningSyncNode": "This contact had a custom sync node, which is not supported in KristWeb v2. The sync node was skipped.",
-      "warningIcon": "This contact had a custom icon, which is not supported in KristWeb v2. The icon was skipped.",
+      "warningSyncNode": "This contact had a custom sync node, which is not supported in KromerWeb v2. The sync node was skipped.",
+      "warningIcon": "This contact had a custom icon, which is not supported in KromerWeb v2. The icon was skipped.",
       "warningLabelInvalid": "The label for this contact was invalid. The label was skipped.",
 
       "errorInvalidTypeString": "This contact was not a string!",
@@ -951,8 +951,8 @@
     "buttonCopy": "Copy to clipboard"
   },
 
-  "walletLimitMessage": "You have more wallets stored than KristWeb supports. This was either caused by a bug, or you bypassed it intentionally. Expect issues with syncing.",
-  "contactLimitMessage": "You have more contacts stored than KristWeb supports. This was either caused by a bug, or you bypassed it intentionally. Expect issues with syncing.",
+  "walletLimitMessage": "You have more wallets stored than KromerWeb supports. This was either caused by a bug, or you bypassed it intentionally. Expect issues with syncing.",
+  "contactLimitMessage": "You have more contacts stored than KromerWeb supports. This was either caused by a bug, or you bypassed it intentionally. Expect issues with syncing.",
 
   "optionalFieldUnset": "(unset)",
 
@@ -1061,7 +1061,7 @@
     "siteTitle": "What's new",
 
     "titleKrist": "Krist",
-    "titleKristWeb": "KristWeb",
+    "titleKristWeb": "KromerWeb",
 
     "tooltipGitHub": "View on GitHub",
 
@@ -1078,7 +1078,7 @@
 
     "buttonAll": "All",
 
-    "warningTotalLimit": "You seem to have more than 1,000 names, which is not yet supported in KristWeb v2. Please post an issue on GitHub.",
+    "warningTotalLimit": "You seem to have more than 1,000 names, which is not yet supported in KromerWeb v2. Please post an issue on GitHub.",
     "errorLookup": "There was an error fetching the names. See the console for details."
   },
 
@@ -1146,7 +1146,7 @@
 
   "noNamesResult": {
     "title": "No names yet",
-    "subTitle": "You currently have no names in any of your wallets saved in KristWeb, so there is nothing to see here yet. Would you like to purchase a name?",
+    "subTitle": "You currently have no names in any of your wallets saved in KromerWeb, so there is nothing to see here yet. Would you like to purchase a name?",
     "button": "Purchase name"
   },
 
@@ -1189,8 +1189,8 @@
   },
 
   "legacyMigration": {
-    "modalTitle": "KristWeb v1 migration",
-    "description": "Welcome to KristWeb v2! It looks like you have used KristWeb v1 on this domain before.<br /><br /><strong>Please enter your master password to migrate your wallets to the new format.</strong> You will only have to do this once.",
+    "modalTitle": "KromerWeb v1 migration",
+    "description": "Welcome to KromerWeb v2! It looks like you have used KromerWeb v1 on this domain before.<br /><br /><strong>Please enter your master password to migrate your wallets to the new format.</strong> You will only have to do this once.",
 
     "walletCount": "Detected <1>{{count, number}}</1> wallet",
     "walletCount_plural": "Detected <1>{{count, number}}</1> wallets",
@@ -1210,7 +1210,7 @@
 
     "forgotPassword": {
       "modalTitle": "Skip v1 migration",
-      "modalContent": "If you forgot your master password for KristWeb v1, then you will not be able to migrate your wallets. You will never be asked again. Are you sure you want to skip migration?",
+      "modalContent": "If you forgot your master password for KromerWeb v1, then you will not be able to migrate your wallets. You will never be asked again. Are you sure you want to skip migration?",
       "buttonSkip": "Skip"
     }
   },

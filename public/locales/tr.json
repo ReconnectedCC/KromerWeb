@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "KristWeb"
+    "name": "KromerWeb"
   },
 
   "nav": {
@@ -66,7 +66,7 @@
     "whatsNew": "Yenilikler",
 
     "updateTitle": "Güncelleme mevcut!",
-    "updateDescription": "KristWeb'in yeni bir sürümü mevcut. Lütfen sayfayı yeniden yükleyin.",
+    "updateDescription": "KromerWeb'in yeni bir sürümü mevcut. Lütfen sayfayı yeniden yükleyin.",
     "updateReload": "Yeniden yükle"
   },
 
@@ -86,7 +86,7 @@
   "error": "Hata",
   "errorBoundary": {
     "title": "Kritik hata",
-    "description": "KristWeb'de kritik bir hata meydana geldi, bu sebepten dolayı bu sayfa sonlandırıldı. Detaylar için konsola bakınız.",
+    "description": "KromerWeb'de kritik bir hata meydana geldi, bu sebepten dolayı bu sayfa sonlandırıldı. Detaylar için konsola bakınız.",
     "sentryNote": "Bu hata otomatik olarak rapor edilmiştir."
   },
   "errorReported": "Bir hata otomatik olarak rapor edildi. Detaylar için konsola bakın.",
@@ -300,7 +300,7 @@
     "walletFormatJwalelset": "jwalelset",
     "walletFormatApi": "Raw/API (gelişmiş kullanıcılar)",
 
-    "walletSave": "Bu cüzdanı KristWeb'e kaydet",
+    "walletSave": "Bu cüzdanı KromerWeb'e kaydet",
 
     "messageSuccessAdd": "Cüzdan başarıyla eklendi!",
     "messageSuccessCreate": "Cüzdan başarıyla oluşturuldu!",
@@ -349,8 +349,8 @@
   "dashboard": {
     "siteTitle": "Gösterge Paneli",
 
-    "inDevBanner": "KristWeb v2 kapalı betasına hoşgeldiniz! Bu site hala geliştirilme aşamasındadır, bundan dolayı çoğu özellik bulunmamaktadır. Lütfen bulduğunuz bütün bugları <1>GitHub</1>'da rapor edin. Teşekkürler!",
-    "inDevBanner2": "KristWeb v2 açık betasına hoşgeldiniz! Bu site nispeten yeni, bu yüzden bulduğunuz herhangi bir bugu <1>GitHub</1>'da rapor edin. Teşekkürler!",
+    "inDevBanner": "KromerWeb v2 kapalı betasına hoşgeldiniz! Bu site hala geliştirilme aşamasındadır, bundan dolayı çoğu özellik bulunmamaktadır. Lütfen bulduğunuz bütün bugları <1>GitHub</1>'da rapor edin. Teşekkürler!",
+    "inDevBanner2": "KromerWeb v2 açık betasına hoşgeldiniz! Bu site nispeten yeni, bu yüzden bulduğunuz herhangi bir bugu <1>GitHub</1>'da rapor edin. Teşekkürler!",
 
     "walletOverviewCardTitle": "Cüzdanlar",
     "walletOverviewTotalBalance": "Toplam bakiye",
@@ -392,11 +392,11 @@
     "tipsPrevious": "Önceki",
     "tipsNext": "Sonraki",
     "tips": {
-      "0": "Krist ve KristWeb'deki yenilikleri [Yenilikler](/whatsnew) sayfasından takip edin!",
+      "0": "Krist ve KromerWeb'deki yenilikleri [Yenilikler](/whatsnew) sayfasından takip edin!",
       "1": "Masaüstünde ok tuşlarını kullanarak tablolar arasında hızlıca geçiş yapabilirsiniz.",
       "2": "Tabloları sütun başlıklarına tıklayarak sıralayabilirsiniz.",
       "3": "[Cüzdanlarım](/wallets) sayfasını tablo başlığındaki filtre tuşuna tıklayarak kategorilere göre sıralayabilirsiniz.",
-      "4": "[Ayarlar sayfası](/settings) KristWeb deneyiminizi kişiselleştirmek için bir çok gelişmiş ayara sahip.",
+      "4": "[Ayarlar sayfası](/settings) KromerWeb deneyiminizi kişiselleştirmek için bir çok gelişmiş ayara sahip.",
       "5": "Yeni [İstek sayfası](/request) ile önceden doldurulmuş işlem linkleri oluşturabilirsiniz.",
       "6": "[Cüzdanlarınızı](/wallets) yedeklemeyi unutmayın!",
       "7": "Krist ağını Ctrl+K (macOS'te Cmd+K) klavye kısayolu ile hızlıca arayabilirsiniz.",
@@ -418,10 +418,10 @@
     "hostedBy": "<1>{{host}}</1> tarafından sunuldu",
     "supportersTitle": "Destekçiler",
     "supportersDescription": "Bu proje aşağıdaki muhteşem destekçiler sayesinde mümkün oldu:",
-    "supportButton": "KristWeb'i destekle",
+    "supportButton": "KromerWeb'i destekle",
     "translatorsTitle": "Tercümanlar",
     "translatorsDescription": "Bu proje aşağıdaki muhteşem katkıda bulunanlar sayesinde tercüme edildi:",
-    "translateButton": "KristWeb'i tercüme et",
+    "translateButton": "KromerWeb'i tercüme et",
     "tmpim": "tmpim tarafından oluşturuldu",
 
     "versionInfo": {
@@ -436,9 +436,9 @@
     "privacy": {
       "kristServer": "Krist Sunucusu",
       "kristServerDesc": "<1>Krist Sunucusunun</1> sakladığı tek özel veriler, web sunucusunun kayıtlarının parçası olan IP adresiniz, User-Agent ve Origin'inizdir. Bu bilgiler 30 gün sonra otomatik olarak silinir.",
-      "kristweb": "KristWeb",
-      "kristwebDesc1": "KristWeb otomatik hata raporları için kendi üzerinde sunulan bir <1>Sentry</1> sunucusu kullanır. Bu sistem sizin IP adresiniz, User-Agent, Origin, breadcrumb'larınız, ve otomatik olarak rapor edilen herhangi bir hatanın detaylarını saklar. Bu bilgiler 30 gün sonra otomatik olarak silinir.",
-      "kristwebDesc2": "<1>uBlock Origin</1> <strong>(önerilir)</strong> gibi bir reklam-engelleyici veya takip-engelleyici bir tarayıcı eklentisine sahip iseniz, Sentry sistemimiz zaten eklentiye dahil engel listeleri tarafından engellenir, bu yüzden gizliliğiniz hakkında endişe duymanıza gerek yok. Ayrıca <4>ayarlar sayfası</4>nda hata raporlarını devre dışı bırakablirsiniz. Eğer daha detaylı hata raporları sunarak bize yardımcı olmak istiyorsanız, lütfen takip-engelleyici yazılımınızda KristWeb için bir istisna oluşturmayı düşünün. Bu site reklam sunmaz.",
+      "kristweb": "KromerWeb",
+      "kristwebDesc1": "KromerWeb otomatik hata raporları için kendi üzerinde sunulan bir <1>Sentry</1> sunucusu kullanır. Bu sistem sizin IP adresiniz, User-Agent, Origin, breadcrumb'larınız, ve otomatik olarak rapor edilen herhangi bir hatanın detaylarını saklar. Bu bilgiler 30 gün sonra otomatik olarak silinir.",
+      "kristwebDesc2": "<1>uBlock Origin</1> <strong>(önerilir)</strong> gibi bir reklam-engelleyici veya takip-engelleyici bir tarayıcı eklentisine sahip iseniz, Sentry sistemimiz zaten eklentiye dahil engel listeleri tarafından engellenir, bu yüzden gizliliğiniz hakkında endişe duymanıza gerek yok. Ayrıca <4>ayarlar sayfası</4>nda hata raporlarını devre dışı bırakablirsiniz. Eğer daha detaylı hata raporları sunarak bize yardımcı olmak istiyorsanız, lütfen takip-engelleyici yazılımınızda KromerWeb için bir istisna oluşturmayı düşünün. Bu site reklam sunmaz.",
       "kristwebDesc3": "Herhangi bir sorunuz veya endişeniz var ise, lütfen geliştiricilerle iletişime geçin."
     }
   },
@@ -498,7 +498,7 @@
     "subTitleTranslations": "Tercümeler",
 
     "translations": {
-      "errorMissingLanguages": "languages.json dosyası eksik. KristWeb doğru bir şekilde derlendi mi?",
+      "errorMissingLanguages": "languages.json dosyası eksik. KromerWeb doğru bir şekilde derlendi mi?",
       "errorNoKeys": "Tercüme anahtarı bulunmamaktadır",
 
       "columnLanguageCode": "Kod",
